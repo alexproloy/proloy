@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281181293873",
+    "project_id": "programmerproloy",
+    "storage_bucket": "programmerproloy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281181293873:android:7cddf38f30e1e4798db410",
+        "android_client_info": {
+          "package_name": "com.example.proloy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281181293873-0metlkrthlhg8hgoqeeig7d9r94vtb5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVP3vuuLLOUzfip8BQNB9DpYkhnQ500Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281181293873-0metlkrthlhg8hgoqeeig7d9r94vtb5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
